@@ -1,0 +1,9 @@
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Domain.Core\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Domain.Core.deps.json
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Domain.Core\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Domain.Core.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Domain.Core\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Domain.Core.csprojAssemblyReference.cache
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Domain.Core\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Domain.Core.AssemblyInfoInputs.cache
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Domain.Core\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Domain.Core.AssemblyInfo.cs
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Domain.Core\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Domain.Core.pdb
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Domain.Core\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Domain.Core.csproj.CoreCompileInputs.cache
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Domain.Core\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Domain.Core.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Domain.Core\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Domain.Core.pdb
