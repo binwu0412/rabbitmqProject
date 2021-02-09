@@ -1,0 +1,12 @@
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.Bus\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Infra.Bus.deps.json
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.Bus\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Infra.Bus.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.Bus\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Domain.Core.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.Bus\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Domain.Core.pdb
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.Bus\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Infra.Bus.csprojAssemblyReference.cache
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.Bus\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Infra.Bus.AssemblyInfoInputs.cache
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.Bus\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Infra.Bus.AssemblyInfo.cs
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.Bus\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Infra.Bus.csproj.CopyComplete
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.Bus\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Infra.Bus.pdb
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.Bus\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Infra.Bus.csproj.CoreCompileInputs.cache
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.Bus\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Infra.Bus.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.Bus\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Infra.Bus.pdb

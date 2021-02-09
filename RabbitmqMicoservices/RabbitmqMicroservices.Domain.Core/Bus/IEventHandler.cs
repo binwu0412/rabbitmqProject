@@ -10,8 +10,6 @@ namespace RabbitmqMicroservices.Domain.Core.Bus
         where TEvent : Event
     {
         Task Handle(TEvent @event);
-
-
     }
 
     public interface IEventHandler

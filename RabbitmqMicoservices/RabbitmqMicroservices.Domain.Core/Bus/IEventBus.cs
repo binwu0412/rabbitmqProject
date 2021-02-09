@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace RabbitmqMicroservices.Domain.Core.Bus
 {
-    interface IEventBus
+    public interface IEventBus
     {
         Task SendCommand<T>(T command) where T : Command;
 
@@ -16,8 +16,5 @@ namespace RabbitmqMicroservices.Domain.Core.Bus
         void Subscribe<T, TH>()
             where T : Event
             where TH : IEventHandler<T>;
-
-
-
     }
 }
