@@ -11,7 +11,6 @@
   <ItemGroup>
     <ProjectReference Include="..\RabbitmqMicroservices.Domain.Core\RabbitmqMicroservices.Domain.Core.csproj" />
     <ProjectReference Include="..\RabbitmqMicroservices.Infra.Bus\RabbitmqMicroservices.Infra.Bus.csproj" />
-    <ProjectReference Include="..\RabbitmqMicroservices.Microservices.Core\RabbitmqMicroservices.Microservices.Core.csproj" />
   </ItemGroup>
 
 </Project>

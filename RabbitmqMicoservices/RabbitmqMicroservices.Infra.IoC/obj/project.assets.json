@@ -100,19 +100,6 @@
         "runtime": {
           "bin/placeholder/RabbitmqMicroservices.Infra.Bus.dll": {}
         }
-      },
-      "RabbitmqMicroservices.Microservices.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/RabbitmqMicroservices.Microservices.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/RabbitmqMicroservices.Microservices.Core.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
       }
     }
   },
@@ -285,19 +272,13 @@
       "type": "project",
       "path": "../RabbitmqMicroservices.Infra.Bus/RabbitmqMicroservices.Infra.Bus.csproj",
       "msbuildProject": "../RabbitmqMicroservices.Infra.Bus/RabbitmqMicroservices.Infra.Bus.csproj"
-    },
-    "RabbitmqMicroservices.Microservices.Core/1.0.0": {
-      "type": "project",
-      "path": "../RabbitmqMicroservices.Microservices.Core/RabbitmqMicroservices.Microservices.Core.csproj",
-      "msbuildProject": "../RabbitmqMicroservices.Microservices.Core/RabbitmqMicroservices.Microservices.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.Extensions.DependencyInjection >= 5.0.1",
       "RabbitmqMicroservices.Domain.Core >= 1.0.0",
-      "RabbitmqMicroservices.Infra.Bus >= 1.0.0",
-      "RabbitmqMicroservices.Microservices.Core >= 1.0.0"
+      "RabbitmqMicroservices.Infra.Bus >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -335,9 +316,6 @@
             },
             "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Infra.Bus\\RabbitmqMicroservices.Infra.Bus.csproj": {
               "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Infra.Bus\\RabbitmqMicroservices.Infra.Bus.csproj"
-            },
-            "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Microservices.Core\\RabbitmqMicroservices.Microservices.Core.csproj": {
-              "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Microservices.Core\\RabbitmqMicroservices.Microservices.Core.csproj"
             }
           }
         }
@@ -367,9 +345,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

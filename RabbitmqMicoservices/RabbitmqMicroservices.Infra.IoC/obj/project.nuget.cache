@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JcqF2SUQpg87Jy5iB7PbYmw9MhaTgnh0ZO1c5tdKPoDwCqYwGmgvLENlmbWlm/+FtvDayrPpApJQ5eIwHR4RWg==",
+  "dgSpecHash": "eN328cEgkVovw482ukAjvu89DafNlAlABV5RH6WvMS0lNVlv0riXkMkBjLiRlEJoyvaPpz2LMge98MIsL5kP9A==",
   "success": true,
   "projectFilePath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Infra.IoC\\RabbitmqMicroservices.Infra.IoC.csproj",
   "expectedPackageFiles": [
