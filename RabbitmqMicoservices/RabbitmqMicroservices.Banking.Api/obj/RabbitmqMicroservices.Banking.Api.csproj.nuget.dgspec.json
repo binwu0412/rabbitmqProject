@@ -268,7 +268,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Domain.Core\\RabbitmqMicroservices.Domain.Core.csproj": {
+                "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Domain.Core\\RabbitmqMicroservices.Domain.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

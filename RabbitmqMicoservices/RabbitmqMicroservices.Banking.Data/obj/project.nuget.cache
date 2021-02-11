@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "QT+MLYoHtunw38BNXH+sxIB+5baa7skB637KI5m8NJ7kYFvb0qfNO7dlNwnCVsSrDJHqNzr+RziJ0pWC28eaOA==",
+  "dgSpecHash": "kYNfkKlfA+LrGP3UY3LQT6VVJQFUE+yE9bhvcSLerEXOL3wa4jLlOfFYVn5UkMzrscmfnIQU8ov8e+M2ooeISw==",
   "success": true,
   "projectFilePath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Data\\RabbitmqMicroservices.Banking.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\waowao\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\waowao\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\waowao\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\waowao\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\waowao\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

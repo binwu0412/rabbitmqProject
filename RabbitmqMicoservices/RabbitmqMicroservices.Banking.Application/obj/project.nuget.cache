@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pLIzQxDfoDWZp1lFIK3N1qjPkZz9MGOEbIC0S1gvAzXG6SzxtUwln+973XCzD7IuOTxx6qQIdaY99o3VUgjnzg==",
+  "dgSpecHash": "2NgkJyPvgi4sPPfCrgi7tDYPJ3P5TZ71SieTJW89MkVeAH/AYspzQaoThHkZAyKBRts4aixkAbEhwMcmUPc9uQ==",
   "success": true,
   "projectFilePath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Application\\RabbitmqMicroservices.Banking.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\waowao\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

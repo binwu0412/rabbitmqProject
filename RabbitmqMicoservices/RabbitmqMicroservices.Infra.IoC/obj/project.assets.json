@@ -1442,6 +1442,9 @@
       "RabbitmqMicroservices.Banking.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "RabbitmqMicroservices.Domain.Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/RabbitmqMicroservices.Banking.Domain.dll": {}
         },
