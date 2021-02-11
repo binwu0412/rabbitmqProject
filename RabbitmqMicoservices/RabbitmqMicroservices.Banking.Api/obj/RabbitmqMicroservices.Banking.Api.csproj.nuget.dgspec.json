@@ -29,6 +29,245 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Application\\RabbitmqMicroservices.Banking.Application.csproj": {
+                "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Application\\RabbitmqMicroservices.Banking.Application.csproj"
+              },
+              "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Data\\RabbitmqMicroservices.Banking.Data.csproj": {
+                "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Data\\RabbitmqMicroservices.Banking.Data.csproj"
+              },
+              "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Domain\\RabbitmqMicroservices.Banking.Domain.csproj": {
+                "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Domain\\RabbitmqMicroservices.Banking.Domain.csproj"
+              },
+              "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Domain.Core\\RabbitmqMicroservices.Domain.Core.csproj": {
+                "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Domain.Core\\RabbitmqMicroservices.Domain.Core.csproj"
+              },
+              "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Infra.Bus\\RabbitmqMicroservices.Infra.Bus.csproj": {
+                "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Infra.Bus\\RabbitmqMicroservices.Infra.Bus.csproj"
+              },
+              "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Infra.IoC\\RabbitmqMicroservices.Infra.IoC.csproj": {
+                "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Infra.IoC\\RabbitmqMicroservices.Infra.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Swashbuckle.Core": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Application\\RabbitmqMicroservices.Banking.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Application\\RabbitmqMicroservices.Banking.Application.csproj",
+        "projectName": "RabbitmqMicroservices.Banking.Application",
+        "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Application\\RabbitmqMicroservices.Banking.Application.csproj",
+        "packagesPath": "C:\\Users\\waowao\\.nuget\\packages\\",
+        "outputPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\waowao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Domain\\RabbitmqMicroservices.Banking.Domain.csproj": {
+                "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Domain\\RabbitmqMicroservices.Banking.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Data\\RabbitmqMicroservices.Banking.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Data\\RabbitmqMicroservices.Banking.Data.csproj",
+        "projectName": "RabbitmqMicroservices.Banking.Data",
+        "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Data\\RabbitmqMicroservices.Banking.Data.csproj",
+        "packagesPath": "C:\\Users\\waowao\\.nuget\\packages\\",
+        "outputPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\waowao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Domain\\RabbitmqMicroservices.Banking.Domain.csproj": {
+                "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Domain\\RabbitmqMicroservices.Banking.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Domain\\RabbitmqMicroservices.Banking.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Domain\\RabbitmqMicroservices.Banking.Domain.csproj",
+        "projectName": "RabbitmqMicroservices.Banking.Domain",
+        "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Domain\\RabbitmqMicroservices.Banking.Domain.csproj",
+        "packagesPath": "C:\\Users\\waowao\\.nuget\\packages\\",
+        "outputPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\waowao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -51,9 +290,214 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Domain.Core\\RabbitmqMicroservices.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Domain.Core\\RabbitmqMicroservices.Domain.Core.csproj",
+        "projectName": "RabbitmqMicroservices.Domain.Core",
+        "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Domain.Core\\RabbitmqMicroservices.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\waowao\\.nuget\\packages\\",
+        "outputPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\waowao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Infra.Bus\\RabbitmqMicroservices.Infra.Bus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Infra.Bus\\RabbitmqMicroservices.Infra.Bus.csproj",
+        "projectName": "RabbitmqMicroservices.Infra.Bus",
+        "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Infra.Bus\\RabbitmqMicroservices.Infra.Bus.csproj",
+        "packagesPath": "C:\\Users\\waowao\\.nuget\\packages\\",
+        "outputPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Infra.Bus\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\waowao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Domain.Core\\RabbitmqMicroservices.Domain.Core.csproj": {
+                "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Domain.Core\\RabbitmqMicroservices.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Infra.IoC\\RabbitmqMicroservices.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Infra.IoC\\RabbitmqMicroservices.Infra.IoC.csproj",
+        "projectName": "RabbitmqMicroservices.Infra.IoC",
+        "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Infra.IoC\\RabbitmqMicroservices.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\waowao\\.nuget\\packages\\",
+        "outputPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Infra.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\waowao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Application\\RabbitmqMicroservices.Banking.Application.csproj": {
+                "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Application\\RabbitmqMicroservices.Banking.Application.csproj"
+              },
+              "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Data\\RabbitmqMicroservices.Banking.Data.csproj": {
+                "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Data\\RabbitmqMicroservices.Banking.Data.csproj"
+              },
+              "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Domain.Core\\RabbitmqMicroservices.Domain.Core.csproj": {
+                "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Domain.Core\\RabbitmqMicroservices.Domain.Core.csproj"
+              },
+              "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Infra.Bus\\RabbitmqMicroservices.Infra.Bus.csproj": {
+                "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Infra.Bus\\RabbitmqMicroservices.Infra.Bus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

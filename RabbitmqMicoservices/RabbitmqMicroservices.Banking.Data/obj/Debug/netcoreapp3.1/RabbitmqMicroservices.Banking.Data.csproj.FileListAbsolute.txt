@@ -1,0 +1,15 @@
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Data\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Data.deps.json
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Data\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Data.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Data\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Data.csprojAssemblyReference.cache
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Data\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Data.AssemblyInfoInputs.cache
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Data\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Data.AssemblyInfo.cs
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Data\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Data.runtimeconfig.json
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Data\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Data.runtimeconfig.dev.json
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Data\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Data.genruntimeconfig.cache
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Data\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Data.pdb
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Data\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Domain.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Data\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Domain.pdb
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Data\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Data.csproj.CoreCompileInputs.cache
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Data\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Data.csproj.CopyComplete
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Data\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Data.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Data\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Data.pdb

@@ -7,3 +7,14 @@ C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\obj\Debu
 C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Infra.IoC.csproj.CoreCompileInputs.cache
 C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Infra.IoC.dll
 C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Infra.IoC.pdb
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Application.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Data.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Domain.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Domain.Core.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Infra.Bus.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Application.pdb
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Data.pdb
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Domain.Core.pdb
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Infra.Bus.pdb
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Domain.pdb
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Infra.IoC.csproj.CopyComplete

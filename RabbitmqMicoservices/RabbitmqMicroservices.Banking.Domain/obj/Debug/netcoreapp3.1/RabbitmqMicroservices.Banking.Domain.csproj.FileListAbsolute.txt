@@ -1,0 +1,9 @@
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Domain\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Domain.deps.json
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Domain\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Domain.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Domain\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Domain.pdb
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Domain\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Domain.csprojAssemblyReference.cache
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Domain\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Domain.AssemblyInfoInputs.cache
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Domain\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Domain.AssemblyInfo.cs
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Domain\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Domain.csproj.CoreCompileInputs.cache
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Domain\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Domain.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Domain\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Domain.pdb

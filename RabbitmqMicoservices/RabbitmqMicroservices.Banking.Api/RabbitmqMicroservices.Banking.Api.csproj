@@ -2,7 +2,26 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>5ecf1068-9caa-4a16-b7e4-5610ebd3e89a</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="9.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.9" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.0.4" />
+    <PackageReference Include="Swashbuckle.Core" Version="5.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RabbitmqMicroservices.Banking.Application\RabbitmqMicroservices.Banking.Application.csproj" />
+    <ProjectReference Include="..\RabbitmqMicroservices.Banking.Data\RabbitmqMicroservices.Banking.Data.csproj" />
+    <ProjectReference Include="..\RabbitmqMicroservices.Banking.Domain\RabbitmqMicroservices.Banking.Domain.csproj" />
+    <ProjectReference Include="..\RabbitmqMicroservices.Domain.Core\RabbitmqMicroservices.Domain.Core.csproj" />
+    <ProjectReference Include="..\RabbitmqMicroservices.Infra.Bus\RabbitmqMicroservices.Infra.Bus.csproj" />
+    <ProjectReference Include="..\RabbitmqMicroservices.Infra.IoC\RabbitmqMicroservices.Infra.IoC.csproj" />
+  </ItemGroup>
 
 
 </Project>

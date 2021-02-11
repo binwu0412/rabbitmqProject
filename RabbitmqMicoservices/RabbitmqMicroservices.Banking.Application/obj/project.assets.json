@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "RabbitmqMicroservices.Banking.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/RabbitmqMicroservices.Banking.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RabbitmqMicroservices.Banking.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "RabbitmqMicroservices.Banking.Domain/1.0.0": {
+      "type": "project",
+      "path": "../RabbitmqMicroservices.Banking.Domain/RabbitmqMicroservices.Banking.Domain.csproj",
+      "msbuildProject": "../RabbitmqMicroservices.Banking.Domain/RabbitmqMicroservices.Banking.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "RabbitmqMicroservices.Banking.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\waowao\\.nuget\\packages\\": {},
@@ -36,7 +55,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Domain\\RabbitmqMicroservices.Banking.Domain.csproj": {
+              "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Banking.Domain\\RabbitmqMicroservices.Banking.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

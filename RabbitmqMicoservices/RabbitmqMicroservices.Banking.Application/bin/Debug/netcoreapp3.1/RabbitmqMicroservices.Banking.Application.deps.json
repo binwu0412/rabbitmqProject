@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RabbitmqMicroservices.Banking.Application/1.0.0": {
+        "dependencies": {
+          "RabbitmqMicroservices.Banking.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RabbitmqMicroservices.Banking.Application.dll": {}
+        }
+      },
+      "RabbitmqMicroservices.Banking.Domain/1.0.0": {
+        "runtime": {
+          "RabbitmqMicroservices.Banking.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RabbitmqMicroservices.Banking.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RabbitmqMicroservices.Banking.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

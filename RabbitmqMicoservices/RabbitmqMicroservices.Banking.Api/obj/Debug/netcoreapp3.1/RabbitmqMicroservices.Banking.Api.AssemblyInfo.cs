@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("5ecf1068-9caa-4a16-b7e4-5610ebd3e89a")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("RabbitmqMicroservices.Banking.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
