@@ -10,3 +10,5 @@ C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Applicatio
 C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Application\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Application.csproj.CopyComplete
 C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Application\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Application.dll
 C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Application\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Application.pdb
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Application\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Domain.Core.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Application\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Domain.Core.pdb

@@ -18,3 +18,9 @@ C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\bin\Debu
 C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Infra.Bus.pdb
 C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Domain.pdb
 C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Infra.IoC.csproj.CopyComplete
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\bin\Debug\netcoreapp3.1\RabbitmqMicroservice.Transfer.Application.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Transfer.Data.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Transfer.Domain.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Transfer.Data.pdb
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\bin\Debug\netcoreapp3.1\RabbitmqMicroservice.Transfer.Application.pdb
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Infra.IoC\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Transfer.Domain.pdb

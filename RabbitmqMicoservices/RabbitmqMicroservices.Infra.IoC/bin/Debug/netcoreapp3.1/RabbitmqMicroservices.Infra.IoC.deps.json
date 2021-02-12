@@ -12,7 +12,8 @@
           "RabbitmqMicroservices.Banking.Application": "1.0.0",
           "RabbitmqMicroservices.Banking.Data": "1.0.0",
           "RabbitmqMicroservices.Domain.Core": "1.0.0",
-          "RabbitmqMicroservices.Infra.Bus": "1.0.0"
+          "RabbitmqMicroservices.Infra.Bus": "1.0.0",
+          "RabbitmqMicroservices.Transfer.Data": "1.0.0"
         },
         "runtime": {
           "RabbitmqMicroservices.Infra.IoC.dll": {}
@@ -1003,6 +1004,14 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
+      "RabbitmqMicroservice.Transfer.Application/1.0.0": {
+        "dependencies": {
+          "RabbitmqMicroservices.Transfer.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RabbitmqMicroservice.Transfer.Application.dll": {}
+        }
+      },
       "RabbitmqMicroservices.Banking.Application/1.0.0": {
         "dependencies": {
           "RabbitmqMicroservices.Banking.Domain": "1.0.0"
@@ -1022,6 +1031,9 @@
         }
       },
       "RabbitmqMicroservices.Banking.Domain/1.0.0": {
+        "dependencies": {
+          "RabbitmqMicroservices.Domain.Core": "1.0.0"
+        },
         "runtime": {
           "RabbitmqMicroservices.Banking.Domain.dll": {}
         }
@@ -1043,6 +1055,25 @@
         },
         "runtime": {
           "RabbitmqMicroservices.Infra.Bus.dll": {}
+        }
+      },
+      "RabbitmqMicroservices.Transfer.Data/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.2",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.2",
+          "RabbitmqMicroservice.Transfer.Application": "1.0.0",
+          "RabbitmqMicroservices.Transfer.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RabbitmqMicroservices.Transfer.Data.dll": {}
+        }
+      },
+      "RabbitmqMicroservices.Transfer.Domain/1.0.0": {
+        "dependencies": {
+          "RabbitmqMicroservices.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "RabbitmqMicroservices.Transfer.Domain.dll": {}
         }
       }
     }
@@ -1711,6 +1742,11 @@
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
+    "RabbitmqMicroservice.Transfer.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "RabbitmqMicroservices.Banking.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
@@ -1732,6 +1768,16 @@
       "sha512": ""
     },
     "RabbitmqMicroservices.Infra.Bus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RabbitmqMicroservices.Transfer.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RabbitmqMicroservices.Transfer.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

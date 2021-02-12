@@ -83,3 +83,9 @@ C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Api\bin\De
 C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Api\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Api.csproj.CoreCompileInputs.cache
 C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Api\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Api\obj\Debug\netcoreapp3.1\RabbitmqMicroservices.Banking.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Api\bin\Debug\netcoreapp3.1\RabbitmqMicroservice.Transfer.Application.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Api\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Transfer.Data.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Api\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Transfer.Domain.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Api\bin\Debug\netcoreapp3.1\RabbitmqMicroservice.Transfer.Application.pdb
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Api\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Transfer.Data.pdb
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservices.Banking.Api\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Transfer.Domain.pdb

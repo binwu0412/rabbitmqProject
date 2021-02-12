@@ -1,0 +1,14 @@
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservice.Transfer.Application\bin\Debug\netcoreapp3.1\RabbitmqMicroservice.Transfer.Application.deps.json
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservice.Transfer.Application\bin\Debug\netcoreapp3.1\RabbitmqMicroservice.Transfer.Application.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservice.Transfer.Application\bin\Debug\netcoreapp3.1\RabbitmqMicroservice.Transfer.Application.pdb
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservice.Transfer.Application\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Transfer.Domain.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservice.Transfer.Application\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Transfer.Domain.pdb
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservice.Transfer.Application\obj\Debug\netcoreapp3.1\RabbitmqMicroservice.Transfer.Application.csprojAssemblyReference.cache
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservice.Transfer.Application\obj\Debug\netcoreapp3.1\RabbitmqMicroservice.Transfer.Application.AssemblyInfoInputs.cache
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservice.Transfer.Application\obj\Debug\netcoreapp3.1\RabbitmqMicroservice.Transfer.Application.AssemblyInfo.cs
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservice.Transfer.Application\obj\Debug\netcoreapp3.1\RabbitmqMicroservice.Transfer.Application.csproj.CoreCompileInputs.cache
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservice.Transfer.Application\obj\Debug\netcoreapp3.1\RabbitmqMicroservice.Transfer.Application.csproj.CopyComplete
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservice.Transfer.Application\obj\Debug\netcoreapp3.1\RabbitmqMicroservice.Transfer.Application.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservice.Transfer.Application\obj\Debug\netcoreapp3.1\RabbitmqMicroservice.Transfer.Application.pdb
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservice.Transfer.Application\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Domain.Core.dll
+C:\rabbitmqProject\RabbitmqMicoservices\RabbitmqMicroservice.Transfer.Application\bin\Debug\netcoreapp3.1\RabbitmqMicroservices.Domain.Core.pdb

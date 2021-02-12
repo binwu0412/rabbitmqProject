@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HxRbb6fv2eUUK81e93EjeId5FooAyme0M3bqubDKsNjrZhDFab6QWUjzCBiD9ycLkgkq/fueiyAqjIVECNqw1Q==",
+  "dgSpecHash": "doSijyHyIrSxLZyyWQvGEtHG9Zsjj21jpRMj2mv0yt0sccJSDuhGc/p72/jDjPC3fTq/rip6v3gz4RMWWSctMA==",
   "success": true,
   "projectFilePath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservice.Transfer.Application\\RabbitmqMicroservice.Transfer.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\waowao\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -13,6 +13,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using RabbitmqMicroservices.Banking.Data.Context;
+using RabbitmqMicroservices.Domain.Core.Bus;
 using RabbitmqMicroservices.Infra.IoC;
 using Swashbuckle.Swagger;
 

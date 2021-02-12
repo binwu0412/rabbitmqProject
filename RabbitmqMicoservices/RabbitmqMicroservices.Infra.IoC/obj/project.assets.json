@@ -1411,6 +1411,19 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "RabbitmqMicroservice.Transfer.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "RabbitmqMicroservices.Transfer.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RabbitmqMicroservice.Transfer.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RabbitmqMicroservice.Transfer.Application.dll": {}
+        }
+      },
       "RabbitmqMicroservices.Banking.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -1479,6 +1492,35 @@
         },
         "runtime": {
           "bin/placeholder/RabbitmqMicroservices.Infra.Bus.dll": {}
+        }
+      },
+      "RabbitmqMicroservices.Transfer.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.2",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.2",
+          "RabbitmqMicroservice.Transfer.Application": "1.0.0",
+          "RabbitmqMicroservices.Transfer.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RabbitmqMicroservices.Transfer.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RabbitmqMicroservices.Transfer.Data.dll": {}
+        }
+      },
+      "RabbitmqMicroservices.Transfer.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "RabbitmqMicroservices.Domain.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RabbitmqMicroservices.Transfer.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RabbitmqMicroservices.Transfer.Domain.dll": {}
         }
       }
     }
@@ -5463,6 +5505,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "RabbitmqMicroservice.Transfer.Application/1.0.0": {
+      "type": "project",
+      "path": "../RabbitmqMicroservice.Transfer.Application/RabbitmqMicroservice.Transfer.Application.csproj",
+      "msbuildProject": "../RabbitmqMicroservice.Transfer.Application/RabbitmqMicroservice.Transfer.Application.csproj"
+    },
     "RabbitmqMicroservices.Banking.Application/1.0.0": {
       "type": "project",
       "path": "../RabbitmqMicroservices.Banking.Application/RabbitmqMicroservices.Banking.Application.csproj",
@@ -5487,6 +5534,16 @@
       "type": "project",
       "path": "../RabbitmqMicroservices.Infra.Bus/RabbitmqMicroservices.Infra.Bus.csproj",
       "msbuildProject": "../RabbitmqMicroservices.Infra.Bus/RabbitmqMicroservices.Infra.Bus.csproj"
+    },
+    "RabbitmqMicroservices.Transfer.Data/1.0.0": {
+      "type": "project",
+      "path": "../RabbitmqMicroservices.Transfer.Data/RabbitmqMicroservices.Transfer.Data.csproj",
+      "msbuildProject": "../RabbitmqMicroservices.Transfer.Data/RabbitmqMicroservices.Transfer.Data.csproj"
+    },
+    "RabbitmqMicroservices.Transfer.Domain/1.0.0": {
+      "type": "project",
+      "path": "../RabbitmqMicroservices.Transfer.Domain/RabbitmqMicroservices.Transfer.Domain.csproj",
+      "msbuildProject": "../RabbitmqMicroservices.Transfer.Domain/RabbitmqMicroservices.Transfer.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5495,7 +5552,8 @@
       "RabbitmqMicroservices.Banking.Application >= 1.0.0",
       "RabbitmqMicroservices.Banking.Data >= 1.0.0",
       "RabbitmqMicroservices.Domain.Core >= 1.0.0",
-      "RabbitmqMicroservices.Infra.Bus >= 1.0.0"
+      "RabbitmqMicroservices.Infra.Bus >= 1.0.0",
+      "RabbitmqMicroservices.Transfer.Data >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5539,6 +5597,9 @@
             },
             "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Infra.Bus\\RabbitmqMicroservices.Infra.Bus.csproj": {
               "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Infra.Bus\\RabbitmqMicroservices.Infra.Bus.csproj"
+            },
+            "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Transfer.Data\\RabbitmqMicroservices.Transfer.Data.csproj": {
+              "projectPath": "C:\\rabbitmqProject\\RabbitmqMicoservices\\RabbitmqMicroservices.Transfer.Data\\RabbitmqMicroservices.Transfer.Data.csproj"
             }
           }
         }
